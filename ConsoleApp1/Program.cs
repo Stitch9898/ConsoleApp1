@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("崔迈");
             Console.WriteLine("崔迈");
             Console.WriteLine("王志国");
+            Console.WriteLine("wzg");
         }
     }
 }
